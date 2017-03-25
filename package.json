@@ -1,0 +1,24 @@
+{
+  "name": "taking-note",
+  "version": "0.0.2",
+  "description": "a note taking node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokemon/taking-note.git"
+  },
+  "keywords": [
+    "taking-notes",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Michael Gokey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gokemon/taking-note/issues"
+  },
+  "homepage": "https://github.com/gokemon/taking-note#readme"
+}
